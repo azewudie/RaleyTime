@@ -19,7 +19,7 @@ class MainPreferenceDataStore(
     private val dataSource = context.dataStore
 
     companion object {
-        const val MAIN_DATASTORE = "booking_datastore"
+        const val MAIN_DATASTORE = "raley_time_datastore"
     }
 
     override suspend fun <T> getPreference(
