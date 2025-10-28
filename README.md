@@ -4,11 +4,11 @@
 
 # Future 
 
-##. Home Screen
+## . Home Screen
 
-##. STT(Speach To Text)  Screen 
+## . STT(Speach To Text)  Screen 
 
-##. TTS(Text To Speach) Screen 
+## . TTS(Text To Speach) Screen 
 
 
 # Tech Stack 
