@@ -26,10 +26,9 @@ Kotlin Version 1.9.23
 
 # Screenshots
 
-## App Home Scre
+## App Home Screen
 
 <img width="1080" height="2400" alt="appHome" src="https://github.com/user-attachments/assets/83aee070-66f7-4345-b95b-10097b1fff6b" />
-en 
 
 ## App STT Screen
 
