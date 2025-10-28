@@ -4,9 +4,9 @@
 
 # Future 
 
-Home Screen
-STT(Speach To Text)  Screen 
-TTS(Text To Speach) Screen 
+. Home Screen
+. STT(Speach To Text)  Screen 
+. TTS(Text To Speach) Screen 
 
 # Tech Stack 
 
@@ -15,10 +15,10 @@ Frameworks & Libraries: Jetpack Compose, Retrofit,Dagger Hilt,M3
 
 # Android Configuration
 
-Min SDK 35 (Android 15)
-Compile SDK 36 (Android 16)
-Target SDK 36 (Android 16)
-Kotlin Version 1.9.23
+. Min SDK 35 (Android 15)
+. Compile SDK 36 (Android 16)
+. Target SDK 36 (Android 16)
+. Kotlin Version 1.9.23
 
  # Design Pattern
  
