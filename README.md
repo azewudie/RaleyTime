@@ -1,4 +1,4 @@
-# RealyTime
+# RaleyTime
 
 ## A simple Android application Focus on Google TTS and STT API
 
